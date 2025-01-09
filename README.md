@@ -1,2 +1,2 @@
 # PRODIGY_WD_TASK01
- 
+As part of my first task in a web development internship, I have created an interactive navigation menu using HTML, CSS, and JavaScript. The menu features a fixed position, ensuring it remains visible across all pages. It dynamically changes its color or style when the user scrolls or hovers over a menu item. HTML was used for the menu's structure, CSS for styling, and JavaScript for adding interactivity, such as modifying the background or font color during scrolling or hover events.
